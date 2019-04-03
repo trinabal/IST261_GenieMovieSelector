@@ -1,2 +1,2 @@
-# IST216_GenieMovieSelector
+# IST261_GenieMovieSelector
 Java Swing
